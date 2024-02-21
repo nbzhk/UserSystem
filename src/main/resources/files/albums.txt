@@ -1,0 +1,10 @@
+FamilyVacation #FFD700 true
+UrbanAdventures #4682B4  false
+HikingAdventure #228B22  true
+CreativePhotography #8B4513  false
+GourmetExperience #DC143C  true
+FurryFriends #696969  false
+VacationHighlights #FFA500  true
+NatureExploration #006400  false
+BestFriends #9932CC true
+HolidayJoy #FF6347 false
